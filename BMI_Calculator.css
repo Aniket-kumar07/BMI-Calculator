@@ -1,0 +1,51 @@
+#body {
+  background-color: rgb(98, 98, 98)
+}
+
+#main {
+  height: 200px;
+  width: 300px;
+  margin: auto;
+  border: 2px solid rgb(9, 234, 80);
+  border-radius: 20px;
+}
+
+#heading {
+  text-align: center;
+  color: rgb(2, 2, 32);
+}
+
+#input1 {
+  margin: 5px 0 3px 65px;
+  border-radius: 20px;
+  border: 1px solid rgb(7, 108, 17);
+  color: rgb(19, 21, 157);
+  text-align: center
+}
+
+#input2 {
+  margin: 10px 0 3px 65px;
+  border-radius: 20px;
+  border: 1px solid rgb(7, 108, 17);
+  color: rgb(19, 21, 157);
+  text-align: center
+}
+
+#button1 {
+  margin: 10px 0 0 70px;
+  border-radius: 10px;
+  background-color: aqua;
+}
+
+#button2 {
+  margin: 10px 0 0 35px;
+  border-radius: 10px;
+  background-color: aqua;
+}
+
+#result {
+  text-align: center;
+  color: rgb(5, 3, 24);
+  margin: 10px;
+  font-weight: bolder;
+}
